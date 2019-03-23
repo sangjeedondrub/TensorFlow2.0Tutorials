@@ -1,0 +1,25 @@
+#+TITLE: Learning Tensorflow 2.0
+#+SUBTITLE: Get started with tf again
+#+DATE: \today
+#+AUTHOR: Sangjee Dondrub
+#+EMAIL: sangjeedondrub@live.com
+#+BABEL: :cache yes
+#+LATEX_CLASS: note
+#+OPTIONS: toc:nil date:nil
+#+CREATOR: Sangjee Dondrub <sangjeedondrub@live.com>
+
+* Environment setup
+
+Currently =tf2.0 preview= dose not support =python 3.7= so stick with =3.6= for
+now.
+
+#+BEGIN_SRC sh
+  conda create -n tf2.0 python=3.6 python pip
+
+  pip install tf-nightly-2.0-preview
+  pip install jupyter jupyter_contrib_nbextensions
+#+END_SRC
+
+* Tensorflow tutorials and example by Loong
+
++ git repo: [[https://github.com/sangjeedondrub/TensorFlow2.0Tutorials][sangjeedondrub/TensorFlow2.0Tutorials: TensorFlow 2.0 version's Tutorials and Examples, CNN, RNN, GAN tutorials, etc. TF 2.0版入门实例代码，实战教程。]]
