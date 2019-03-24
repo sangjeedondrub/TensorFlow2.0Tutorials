@@ -23,3 +23,14 @@ now.
 * Tensorflow tutorials and example by Loong
 
 + git repo: [[https://github.com/sangjeedondrub/TensorFlow2.0Tutorials][sangjeedondrub/TensorFlow2.0Tutorials: TensorFlow 2.0 version's Tutorials and Examples, CNN, RNN, GAN tutorials, etc. TF 2.0版入门实例代码，实战教程。]]
+
+* Tensorflow official tutorials
+
+** DONE Basic image classification
+CLOSED: [2019-03-23 Sat 22:32]
+
+https://www.tensorflow.org/alpha/tutorials/keras/basic_classification
+
+** STARTED Basic text classification
+
+https://www.tensorflow.org/alpha/tutorials/keras/basic_text_classification
